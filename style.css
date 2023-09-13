@@ -1,0 +1,49 @@
+
+h1{
+    color: #00b4c5;
+    background: black;
+    font-family: Arial;
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+h2{
+    color: #0D0D0D;
+    font-family: Times;
+    font-style: normal;
+    line-height: normal;
+    text-align: center;
+    font-size: 30px;
+}
+h3{
+    color: #0073e6;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    text-align: center;
+}
+body{
+    font-family: Arial, Verdana;
+    background: black;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+image{
+    width: 250px;
+    margin-left:auto;
+    margin-right:auto;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: white;
+}
+div{
+    min-height: 125px;
+    padding: 20px;
+    word-spacing: double;
+}
